@@ -6,7 +6,7 @@ const users = [
   {
     username: "admin@profin.com",
     password: "passwordadmin",
-    redirectTo: "/MenuPage/Profin/MenuPage/index.html", // Halaman yang akan dituju
+    redirectTo: "https://jaxzyv.github.io/ProFin/", // Halaman yang akan dituju
   },
   {
     username: "user123",
@@ -66,3 +66,4 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
