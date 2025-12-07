@@ -4,13 +4,13 @@
 // Sesuaikan username (email/hp) dan password sesuai kebutuhan Anda
 const users = [
   {
-    username: "admin",
-    password: "admin123",
+    username: "jingga",
+    password: "Ji12345",
     redirectTo: "https://jaxzyv.github.io/ProFin/", // Halaman yang akan dituju
   },
   {
-    username: "jingga",
-    password: "Ji12345",
+    username: "admin",
+    password: "admin123",
     redirectTo: "https://jaxzyv.github.io/ProFin/",
   },
   {
@@ -66,6 +66,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 
 
 
