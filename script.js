@@ -9,8 +9,8 @@ const users = [
     redirectTo: "https://jaxzyv.github.io/ProFin/", // Halaman yang akan dituju
   },
   {
-    username: "user123",
-    password: "userpass",
+    username: "jingga",
+    password: "Ji12345",
     redirectTo: "index.html",
   },
   {
@@ -66,5 +66,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 
 
