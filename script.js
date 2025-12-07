@@ -11,7 +11,7 @@ const users = [
   {
     username: "jingga",
     password: "Ji12345",
-    redirectTo: "index.html",
+    redirectTo: "https://jaxzyv.github.io/ProFin/",
   },
   {
     username: "08123456789", // Contoh login dengan nomor handphone
@@ -66,6 +66,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 
 
 
